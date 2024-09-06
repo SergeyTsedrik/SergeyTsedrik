@@ -9,7 +9,7 @@
 
 На данный момент у меня есть лишь образовательные проекты.
 
-✉️
+![Telegram](https://avatars.mds.yandex.net/i?id=4de29d451fca2852ad80a724072f554efeaa7e2d-5886829-images-thumbs&n=13)
 
 
 
