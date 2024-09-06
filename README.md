@@ -2,7 +2,8 @@
 
 Добро пожаловать в мое портфолио! 
 
-## О себе![](https://yandex.ru/images/search?text=газпром&pos=7&rpt=simage&img_url=https%3A%2F%2Flogojinni.com%2Fimage%2Flogos%2FOAO.svg&from=tabbar&lr=67)
+## О себе
+![](https://yandex.ru/images/search?text=газпром&pos=7&rpt=simage&img_url=https%3A%2F%2Flogojinni.com%2Fimage%2Flogos%2FOAO.svg&from=tabbar&lr=67.svg)
 В 28 лет я стоял на перекрестке своей карьеры. Работа в газодобывающей отрасли обеспечивала стабильный доход, но не приносила удовлетворения. Я понял, что время перемен настало.
 
 Пройдя обучение в направлении "Аналитик данных", я имею опыт в Python (pandas, numpy, matplotlib, seaborn, SciPy, phik, plotly, folium, json), SQL, Tableau, и стремлюсь развиваться дальше. 
