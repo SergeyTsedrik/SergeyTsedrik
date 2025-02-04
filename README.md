@@ -111,11 +111,11 @@
         </tr>
         <tr>
             <td>Обучение «Симулятор аналитика» от karpov.courses </td>
-            <td><a href="hhttps://disk.yandex.ru/i/-zfhcErjw3Ea1Q" target="_blank">Посмотреть</a></td>
+            <td><a href="https://disk.yandex.ru/i/-zfhcErjw3Ea1Q" target="_blank">Посмотреть</a></td>
         </tr>
         <tr>
             <td>«Базовый курс по анализу данных» от Т-Образования</td>
-            <td><a href="hhttps://disk.yandex.ru/i/YY69nt_WC4sMjQ" target="_blank">Посмотреть</a></td>
+            <td><a href="https://disk.yandex.ru/i/YY69nt_WC4sMjQ" target="_blank">Посмотреть</a></td>
         </tr>
     </thead>
     <tbody>
