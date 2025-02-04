@@ -40,6 +40,13 @@
     <img src="https://img.shields.io/badge/Redash-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Redash">
 </div>
 
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Tableau-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Tableau">
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/DataLens-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="DataLens">
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Redash-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Redash">
+</div>
 ## 🛠 Прочие инструменты:
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow">
