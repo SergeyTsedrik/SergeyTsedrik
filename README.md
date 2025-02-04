@@ -9,24 +9,51 @@
 Для углубления своих знаний я прошел несколько онлайн-курсов, которые помогли мне освоить Python, SQL, математическую статистику, теорию вероятности, а также продуктовые метрики и фреймворки для развития продукта. В рамках академических проектов я практиковался в проведении статистических тестов, создании дашбордов в Tableau, а также в использовании GIT и AIRFLOW.
 
 ## 📫 Связаться со мной:
-[![](https://camo.githubusercontent.com/f8b8b70a2bbb0d3cb64c6a128ee14c2191da7b2b2bfb1d6f0d6a6aba224d6c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f6c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)](https://t.me/Stsiedrik)
-[![](https://camo.githubusercontent.com/1923dc8748af2ba3baefbb9e3f271d56af1a24007ee593dfeef55649b289dc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f564b2d626c75653f6c6f676f3d564b266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)](https://vk.com/id141481321)
 
-## 🛠 Навыки и технологии:
-
-- Python (pandas, numpy, matplotlib, seaborn, plotly, json)
-- SQL (PostgreSQL, MySQL, Clickhouse, SQLite)
-- BI инструменты: Tableau, DataLens, Redash
-- ETL-процессы: Apache Airflow
-- Аналитические методы: A/B тестирование, когортный и статистический анализ, CausalImpact
-- Инструменты: Jupyter Notebook, MS Excel, Git
+<div style="text-align: center;">
+  <a href="https://t.me/Stsiedrik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+	<a href="mailto:tsedriksergey@yandex.ru">
+    <img src="https://img.shields.io/badge/mail.yandex-FF3D00?style=for-the-badge&logo=Yandex&logoColor=white" alt="Почта от Яндекс">
+  </a>
+</div>
 
 
-📚 Образование и курсы:
+
+## 🛠 Навыки:
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=blue" alt="Python">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=blue" alt="Pandas">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&color=blue" alt="NumPy">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=blue" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white&color=blue" alt="Plotly">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&&color=blue" alt="Postgres">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&&color=blue" alt="MySQL">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=blue" alt="SQLite">
+    <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white&color=blue" alt="ClickHouse">
+</div>
+
+## 🛠 BI инструменты:
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Tableau-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Tableau">
+    <img src="https://img.shields.io/badge/DataLens-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="DataLens">
+    <img src="https://img.shields.io/badge/Redash-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Redash">
+</div>
+
+## 🛠 Прочие инструменты:
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow">
+    <img src="https://img.shields.io/badge/jupyter_notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+
+## 📚 Образование и курсы:
 - Курсы: Яндекс Практикум, Karpov.courses
 - Магистр нефтегазового дела, НИ ТПУ
 
-🌍 Обо мне: Я стремлюсь к профессиональному росту, увлечен аналитикой данных и исследую способы применения технологий для повышения эффективности бизнеса. Люблю делиться знаниями и участвовать в аналитических сообществах. я увлекаюсь чтением профессиональной литературы и участвую в аналитических сообществах.
+
 
 ## Мои дипломы и сертификаты:
 [Диплом_RU_Цедрик_2024-7993-010.pdf](https://github.com/user-attachments/files/18445935/_RU_._2024-7993-010.pdf)
