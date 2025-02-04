@@ -40,13 +40,6 @@
     <img src="https://img.shields.io/badge/Redash-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Redash">
 </div>
 
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Tableau-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Tableau">
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/DataLens-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="DataLens">
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Redash-%2300BFFF.svg?style=for-the-badge&logoColor=white&color=blue" alt="Redash">
-</div>
 ## 🛠 Прочие инструменты:
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow">
@@ -63,5 +56,82 @@
 
 
 ## Мои дипломы и сертификаты:
-[Диплом_RU_Цедрик_2024-7993-010.pdf](https://github.com/user-attachments/files/18445935/_RU_._2024-7993-010.pdf)
+[Диплом_RU_Цедрик_2024-7993-010.pdf](https://disk.yandex.ru/i/pwvKi-QHN-yT0g)
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Портфолио</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #add8e6;
+			color: black;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Мое Образование и Сертификаты</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Курс</th>
+            <th>Сертификат</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Курс "Аналитик данных" от Я.Практикум</td>
+            <td><a href="https://disk.yandex.ru/i/pwvKi-QHN-yT0g" target="_blank">Посмотреть</a></td>
+        </tr>
+        <tr>
+            <td>Обучение «Симулятор аналитика» от karpov.courses </td>
+            <td><a href="hhttps://disk.yandex.ru/i/-zfhcErjw3Ea1Q" target="_blank">Посмотреть</a></td>
+        </tr>
+        <tr>
+            <td>«Базовый курс по анализу данных» от Т-Образования</td>
+            <td><a href="hhttps://disk.yandex.ru/i/YY69nt_WC4sMjQ" target="_blank">Посмотреть</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Благодарственное письмо. Ассоциация "Драйвер роста"</td>
+            <td><a href="https://disk.yandex.ru/i/sT3cfjj-qDooCg" target="_blank">Посмотреть</a></td>
+		</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Благодарственное письмо. «DonorSearch DA Dashboard Я.Метрика»</td>
+            <td><a href="https://disk.yandex.ru/i/WfBGBkY-OVI_fg" target="_blank">Посмотреть</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
 
